@@ -21,8 +21,8 @@ ___
 
 Menu Buku (Activity Pertama)
 
-![WhatsApp Image 2024-10-31 at 10 59 31_6b1550f2](https://github.com/user-attachments/assets/2af1ba94-43c4-4d8f-bb15-4c11c120cfd4)
+![WhatsApp Image 2024-10-31 at 10 59 30_f7650a18](https://github.com/user-attachments/assets/7513a4b5-3bff-4288-9a36-b239d4577da9)
 
 Detail Buku (Activity Kedua)
 
-![WhatsApp Image 2024-10-31 at 10 59 30_f7650a18](https://github.com/user-attachments/assets/7513a4b5-3bff-4288-9a36-b239d4577da9)
+![WhatsApp Image 2024-10-31 at 10 59 31_6b1550f2](https://github.com/user-attachments/assets/2af1ba94-43c4-4d8f-bb15-4c11c120cfd4)
