@@ -19,5 +19,10 @@ Fitur Utama:
 
 ___
 
+Menu Buku (Activity Pertama)
 
-![bookimage](https://github.com/user-attachments/assets/4ac1e187-daf9-4d50-a245-2558fb61ea0d)
+![WhatsApp Image 2024-10-31 at 10 59 31_6b1550f2](https://github.com/user-attachments/assets/2af1ba94-43c4-4d8f-bb15-4c11c120cfd4)
+
+Detail Buku (Activity Kedua)
+
+![WhatsApp Image 2024-10-31 at 10 59 30_f7650a18](https://github.com/user-attachments/assets/7513a4b5-3bff-4288-9a36-b239d4577da9)
