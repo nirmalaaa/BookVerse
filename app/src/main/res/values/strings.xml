@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Book Verse</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_search">Search</string>
+    <string name="title_books">Books</string>
+    <string name="books">Books</string>
+    <string name="welcome_to_bookverse">Welcome to BookVerse</string>
+    <string name="bookimage">bookimage</string>
+    <string name="select_your_books">Select Your Books</string>
+    <string name="search_your_books">Search Your Books</string>
+    <string name="your_books">Your Books</string>
+    <string name="textview">TextView</string>
+</resources>
