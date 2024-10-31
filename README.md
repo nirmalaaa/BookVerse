@@ -26,3 +26,8 @@ Menu Buku (Activity Pertama)
 Detail Buku (Activity Kedua)
 
 ![WhatsApp Image 2024-10-31 at 10 59 31_6b1550f2](https://github.com/user-attachments/assets/2af1ba94-43c4-4d8f-bb15-4c11c120cfd4)
+
+___
+
+Referensi
+https://www.youtube.com/watch?v=jTo8aYcd-m8&ab_channel=YallaTech-%D9%8A%D9%84%D8%A7%D8%AA%D9%83
