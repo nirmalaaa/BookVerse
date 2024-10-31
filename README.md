@@ -30,4 +30,6 @@ Detail Buku (Activity Kedua)
 ___
 
 Referensi
-https://www.youtube.com/watch?v=jTo8aYcd-m8&ab_channel=YallaTech-%D9%8A%D9%84%D8%A7%D8%AA%D9%83
+
+[https://www.youtube.com/watch?v=jTo8aYcd-m8&ab_channel=YallaTech-%D9%8A%D9%84%D8%A7%D8%AA%D9%83](https://www.youtube.com/watch?v=jTo8aYcd-m8&ab_channel=YallaTech-%D9%8A%D9%84%D8%A7%D8%AA%D9%83)
+
