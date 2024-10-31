@@ -16,3 +16,8 @@ Fitur Utama:
 
 1. Pencarian Buku (Search): Pengguna dapat mencari buku berdasarkan judul buku. Ini memudahkan pengguna menemukan buku yang mereka inginkan atau mencari informasi tentang buku baru.
 2. Review Buku: Pembaca dapat melihat review dari sebuah buku sebelum membaca buku tersebut
+
+___
+
+
+![bookimage](https://github.com/user-attachments/assets/4ac1e187-daf9-4d50-a245-2558fb61ea0d)
